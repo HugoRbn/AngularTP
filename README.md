@@ -19,7 +19,7 @@ Depuis ce composant on va se charger de créer des personnes en faisant appel à
 Depuis ce composant on va afficher les utilisateurs déjà existant, en faisant un appel à l'API Java. 
 
 
-Consigne : 
+# Consigne : 
 Les composants --> dans le dossier component
 
 Les services --> dans le dossier service
