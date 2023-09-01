@@ -1,3 +1,7 @@
+# ATTENTION MOUNIR 
+
+Oublie pas que tu as delete mon front-end. Si jamais j'avais fais le front-end avec Paulo, tu peux te baser sur le sien. cependant mon Backend reste dispo sur ce gi.
+
 # Backend
 
 Le backend ce trouve dans le dossier hugor. Je l'ai réalisé avec spring. Pour ce qui est de la BDD j'ai utilisé SQL et pour le système de migration j'ai utilisé Flyway.
